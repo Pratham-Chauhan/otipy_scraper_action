@@ -101,8 +101,8 @@ def scrape():
         print(f'{count} items added & price changed.\n')
 
 if __name__ == '__main__':
-    #for t in range(1):
-    while True: # infinite loop forever
+    for t in range(1):
+    # while True: # infinite loop forever
 
         # reset count and current-deal-items
         count, current_deal_items = 0, []
@@ -119,13 +119,13 @@ if __name__ == '__main__':
         print('Come back at around %s'%next_deal_time)
 
 
-        endt = int(FD['End_time'].iloc[-1])
-        current_time = int(datetime.now().timestamp())
+        # endt = int(FD['End_time'].iloc[-1])
+        # current_time = int(datetime.now().timestamp())
 
-        wait_time_second = endt - current_time
-        print('Auto Refresh On: Waiting... %s sec'%wait_time_second)
+        # wait_time_second = endt - current_time
+        # print('Auto Refresh On: Waiting... %s sec'%wait_time_second)
 
-        sleep(wait_time_second + 60)
+        # sleep(wait_time_second + 60)
 
 
 
