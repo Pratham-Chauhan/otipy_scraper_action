@@ -7,9 +7,9 @@ import pandas as pd
 from datetime import datetime
 from time import sleep, time
 
-import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
-import numpy as np
+# import matplotlib.pyplot as plt
+# import matplotlib.dates as mdates
+# import numpy as np
 
 saved_location = './Flash_deal_product_list.csv'
 if os.path.exists(saved_location):
