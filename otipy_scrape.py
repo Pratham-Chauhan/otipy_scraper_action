@@ -22,6 +22,17 @@ else:
 current_deal_items = []
 count = 0
 
+def send_msg(text):
+    # create bot and get token from GodFather Bot
+    bot_token = '6889709191:AAGYEBfhjLWv0eLjlHaz3MevaTdYK27tpso'
+    # message something, then visit https://api.telegram.org/bot<YourBOTToken>/getUpdates to get chat id
+    chat_id = "1737052170" 
+
+    url = "https://api.telegram.org/bot" + bot_token + "/sendMessage" + "?chat_id=" + chat_id + "&text=" + text 
+    x = requests.get(url).json()
+    # print(x)
+    if x['ok']: print("Message Sent!")
+
 def extract_info(i):
     global count, current_deal_items
     price = i['price']  # Limited Price
@@ -93,12 +104,17 @@ def scrape():
     flash_deal = jdata[1]['data']['items']
 
     print('Flash Deal Items:', len(flash_deal))
+    send_msg(f'Flash Deal Items: {len(flash_deal)}')
+
     for item in flash_deal:
         extract_info(item)
     if count == 0:
         print('No Update bro.\n')
     else:
         print(f'{count} items added & price changed.\n')
+        send_msg(f'{count} items added & price changed.')
+
+
 
 if __name__ == '__main__':
     for t in range(1):
@@ -117,6 +133,7 @@ if __name__ == '__main__':
 
         next_deal_time = FD['End_time_string'].iloc[-1]
         print('Come back at around %s'%next_deal_time)
+        send_msg('Come back at around %s'%next_deal_time)
 
 
         # endt = int(FD['End_time'].iloc[-1])
