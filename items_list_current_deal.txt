@@ -1,28 +1,28 @@
 Tomato - Hybrid (Tamatar)
 Green Peas (Matar)
-Cauliflower - Large (Phool Gobhi)
-Spinach (Paalak)
 Kinnow - Medium (2 pcs)
-Radish - With Leaves (Muli)
-Fenugreek (Methi)
 Potato - Fresh Crop (Aloo)
-Banana - Medium
-Onion (Pyaaz)
-Cucumber - Hybrid (Kheera)
-Desi Safed Makhan - Murthal Style (Made from 100 percent Buffalo Milk)
-Cabbage - Green (Patta Gobhi)
-Farmers Moo Cow Paneer
-Beans - French (Phali)
-Capsicum - Green (Shimla Mirch)
-Apple - Large
-Broccoli
-Strawberry
-Tender Coconut
-Bitter Gourd (Karela)
 Spring Onion (Hara Pyaaz)
-Beetroot (Chukandar)
+Banana - Medium
+Capsicum - Green (Shimla Mirch)
+Chilli - Hybrid (Hari Mirch)
+Coriander - With Roots (Hara Dhaniya)
+Onion (Pyaaz)
+Beans - French (Phali)
+Lemon - Desi (Nimbu)
+Sarson Leaves
+Mint Leaves (Pudina)
+Bathuwa
+Papaya (Papita)
+Apple - Large
+Desi Safed Makhan - Murthal Style (Made from 100 percent Buffalo Milk)
+Farmers Moo Cow Paneer
 Coriander Leaves - Without Roots (Dhaniya)
-Arbi (Colocasia)
+Sweet Lime - Greenish Yellow (Small)
+Watermelon - Medium (Tarbuj)
+Pineapple - Rani (Whole Ananas)
+Sweet Lime - Greenish Yellow (Medium)
+Garlic (Lehsun)
 Harvest Gold Atta Bread
 Vikram Mills Fresh Chakki Atta (Best Before - 7th Jan 2024)
 Glonuts Regular Almonds (Badaam)
@@ -30,5 +30,3 @@ Rajdhani Sooji (Rava) (Best Before - 27th Jan 2024)
 Bikano Patisa Sweet (Best Before - 31st Jan 2024)
 Rishta - Idli Dosa Batter
 Farm Tale Toned Milk
-Farm Tale Cow Milk
-Farm Tale Buffalo Milk
