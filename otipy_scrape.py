@@ -59,7 +59,7 @@ def extract_info(i):
                 # print('item already stored.', (id, name))
                 return
 
-
+    send_msg(f'{name} [{quantity}] - ₹{price}')
     d = [id, start_time, end_time, start_time_string, end_time_string,
          name, price, normal_price, (normal_price-price), quantity, quantity_in_kg, price_per_kg, normal_price_per_kg]
     # print("{:35s} | {:10s} | ₹{:5d} | ₹{:5d}".format(*d))
@@ -104,7 +104,7 @@ def scrape():
     flash_deal = jdata[1]['data']['items']
 
     print('Flash Deal Items:', len(flash_deal))
-    send_msg(f'Flash Deal Items: {len(flash_deal)}')
+    # send_msg(f'Flash Deal Items: {len(flash_deal)}')
 
     for item in flash_deal:
         extract_info(item)
@@ -133,7 +133,7 @@ if __name__ == '__main__':
 
         next_deal_time = FD['End_time_string'].iloc[-1]
         print('Come back at around %s'%next_deal_time)
-        send_msg('Come back at around %s'%next_deal_time)
+        # send_msg('Come back at around %s'%next_deal_time)
 
 
         # endt = int(FD['End_time'].iloc[-1])
