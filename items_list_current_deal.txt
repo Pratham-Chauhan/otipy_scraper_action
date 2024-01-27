@@ -1,12 +1,12 @@
-Grapes - Jyoti
-Tomato - Hybrid (Tamatar)
 Fortune Soya Oil
+Tomato - Hybrid (Tamatar)
 Pencil Peas (Matar)
 Carrot - Red (Gajar)
 Onion (Pyaaz)
 Cauliflower - Large (Phool Gobhi)
 Radish - With Leaves (Muli)
 Spinach (Paalak)
+Strawberry
 Potato - Fresh Crop (Aloo)
 Tender Coconut
 Egg Master White Eggs
@@ -18,7 +18,6 @@ Beans - French (Phali)
 Premium Malai Paneer (Chakka Malai Paneer - Made from 100% Buffalo Milk)
 Grapes - Black
 Sarson Leaves
-Strawberry
 Cabbage - Green (Patta Gobhi)
 Guava - Green (Amrudh)
 Broccoli
@@ -29,3 +28,4 @@ Glonuts Regular Almonds (Badaam)
 Daawat Rozana Super 90 Rice
 Sapphire Walnut Inshell California
 Ananda Cow Milk Paneer + Dahi Combo
+Aravalli Raw Parmal Rice
