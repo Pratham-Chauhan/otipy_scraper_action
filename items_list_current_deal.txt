@@ -1,13 +1,14 @@
 Ghee (Milkfood)
 Tomato - Desi (Tamatar)
 Pencil Peas (Matar)
-Carrot - Red (Gajar)
 Cauliflower - Large (Phool Gobhi)
-Spinach (Paalak)
 Cabbage - Green (Patta Gobhi)
 Radish - With Leaves (Muli)
+Amul Gold Milk Pouch
 Grapes - Green (Sonaka)
+Gooseberry (Amla)
 Onion (Pyaaz)
+Mother Dairy Cow Milk
 Banana - Medium
 Potato - Fresh Crop (Aloo)
 Cucumber - Hybrid (Kheera)
@@ -16,13 +17,21 @@ Apple - Large (3 pcs)
 Grapes - Black
 Strawberry
 Tender Coconut
-Gooseberry (Amla)
-Capsicum - Green (Shimla Mirch)
 Mushroom - Button
-Beetroot (Chukandar)
-Bathuwa
-Kiwi - Green (Small) - Imported
-Sweet Lime - Greenish Yellow (Small)
+Avocado - Hass (Butter Fruit) - Semi Ripe (Imported)
+Spring Onion (Hara Pyaaz)
+Tender Coconut
+Lemon - Desi (Nimbu)
+Garlic (Lehsun)
+Pomegranate - Medium (Anaar) - 3 pcs
+Apple - Small (5-6 pcs)
+Banana - Large
+Amul Cow Milk Pouch
+Mother Dairy Toned Milk
+Mother Dairy Full Cream Milk
+Farm Tale Buffalo Milk
+Farm Tale Cow Milk
+Farm Tale Toned Milk
 One Farm Kachi Ghani Mustard Oil
 One Farm Soya Oil
 Ananda Cow Milk Paneer + Dahi Combo
