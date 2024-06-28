@@ -2,7 +2,6 @@ Onion (Pyaaz)
 Bhindi (Okra)
 Tomato - Hybrid (Tamatar)
 Mango - Dasheri (Carbide Free)
-Watermelon - Medium (Tarbuj)
 Tender Coconut
 Banana - Medium
 Carrot - Orange (Gajar)
@@ -12,7 +11,6 @@ Rajdhani Atta
 Sponge Gourd (Tori)
 Papaya (Papita)
 Jamun
-Muskmelon - Golden Glory (Large Kharbuja)
 Cherry - Indian
 Capsicum - Green (Shimla Mirch)
 Potato (Aloo)
@@ -23,3 +21,4 @@ Yolkers Eggs
 Trust Refined Sugar
 Prasatti Pure Cow Ghee
 Aravalli Premium Thick Poha
+Rajdhani Daliya
